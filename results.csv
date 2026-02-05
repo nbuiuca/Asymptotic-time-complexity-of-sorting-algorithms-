@@ -1,0 +1,6 @@
+algorithm,case,n,time_sec,comparisons,swaps,status,notes
+Bubble Sort,Average Case,100,0.000982,4797,2535,OK,
+Bubble Sort,Average Case,1000,0.111213,498419,251421,OK,
+Bubble Sort,Average Case,5000,2.252327,12494799,6323529,OK,
+Bubble Sort,Average Case,10000,6.667117,49990440,25127721,OK,
+Bubble Sort,Average Case,20000,30.606629,199989054,100769370,OK,
